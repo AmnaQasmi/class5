@@ -168,4 +168,13 @@
 // for (let i = 0; i < videos.length; i++){
 // console.log(videos,(i)); 
 // }
+// let video1 = {
+//     title: "video1",
+//     description: "video 1 description",
+//     image: "https://image.com",
+//     views: 1000,
+//     log: () => { console.log("hello") }
+// }
+// video1.log()
+// console.log( video1);
 //                                           X********X********X
